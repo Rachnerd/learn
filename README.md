@@ -1,5 +1,5 @@
 # Sources
-This repo contains links that helped me learning new technologies.
+This repo contains links that helped me learn new technologies.
 
 ## RxJS 5
 
